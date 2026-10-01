@@ -7,7 +7,7 @@ Es un generador de contraseñas basico hecho en python
 - Números
 - Símbolos
 
-## ▶️ Ejecutar
+## Ejecutar
 
 ```bash
 python main.py
